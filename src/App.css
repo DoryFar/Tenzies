@@ -5,10 +5,8 @@
 
 body {
   margin: 0;
-  background-image: linear-gradient(to bottom right, #00797b, #b7dddd);
-  background-size: cover ;
-  background-repeat: no-repeat;
-  padding: 11.4rem;
+  background-color: #91c0c0;
+  padding: 10rem;
   font-family: 'Karla', sans-serif;
   display: flex;
   justify-content: center;
